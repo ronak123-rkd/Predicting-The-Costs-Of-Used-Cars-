@@ -1,0 +1,2 @@
+# Predicting-The-Costs-Of-Used-Cars-
+Problem statement is Predicting The Costs Of Used Cars from cars train and test dataset and I did some work on train and test   datasets like   Data preparation,  Data Cleaning, Removing and filling null values, splitting categories data in proper way, visualization for quantative features , Categorical variables visualizations, Initializing label encoders etc.
